@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/shiftky/go-tmsh"
+	"github.com/shiftky/go-tmsh/tmsh"
 	"github.com/spf13/cobra"
 )
 

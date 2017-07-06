@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/shiftky/go-tmsh"
+	"github.com/shiftky/go-tmsh/tmsh"
 )
 
 func main() {
